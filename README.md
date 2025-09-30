@@ -1,5 +1,3 @@
-## 🎬 Demo em Vídeo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fYZFfc83CBM" frameborder="0" allowfullscreen></iframe>
 
 # 🚗 Velocímetro & Hodômetro com Modo HUD
 
@@ -29,8 +27,6 @@ O app também conta com um **modo HUD (Head Up Display)** que espelha as informa
 - 🖼️ Ícone personalizado exclusivo para o aplicativo.  
 
 ---
-
-## 🎬 Demonstração
 
 ## 🎬 Demo em Vídeo
 [▶️ Assista ao Demo no YouTube](https://youtube.com/shorts/fYZFfc83CBM)
